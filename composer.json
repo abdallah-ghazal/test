@@ -1,0 +1,11 @@
+{
+    "name": "php/course",
+    "require": {
+        
+    },
+    "autoload":{
+        "psr-4":{
+            "app\\": "./"
+        }
+    }
+}
